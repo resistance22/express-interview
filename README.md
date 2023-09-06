@@ -9,7 +9,7 @@ The project is a simple express typescript setup.
 - [ ] Movies propertis are listed below: 
 ```json
 {
-  "uuid": string // not null
+  "uuid": string, // not null
   "title": string, //not null
   "director": string, //not null
   "desc": string // nullable
